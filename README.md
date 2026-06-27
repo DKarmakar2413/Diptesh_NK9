@@ -57,16 +57,15 @@ Example:
 
 ## Running the Program
 
-Open a terminal in the project directory and execute:
+Open a google colab and run 
 
 ```bash
-python machine_translation.py
+Assignment_1.pynb
 ```
 
-If your system uses `python3`, run:
 
 ```bash
-python3 machine_translation.py
+Assignment_2.pynb
 ```
 
 ---
@@ -75,13 +74,11 @@ python3 machine_translation.py
 
 After execution, the program generates:
 
-* `translated_output.xlsx`
 
   * Original English sentences
   * Reference Hindi translations
   * Predicted Hindi translations
 
-* `translation_metrics.txt`
 
   * BLEU Score
   * chrF Score
