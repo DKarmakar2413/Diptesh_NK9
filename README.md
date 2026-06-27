@@ -74,12 +74,17 @@ Assignment_2.pynb
 
 After execution, the program generates:
 
-
+```bash
+cleaned_dataset.xlsx
+```
   * Original English sentences
   * Reference Hindi translations
   * Predicted Hindi translations
 
 
+```bash
+translation_metrics.txt
+```
   * BLEU Score
   * chrF Score
   * TER Score
