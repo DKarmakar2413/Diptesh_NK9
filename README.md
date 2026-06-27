@@ -58,6 +58,7 @@ Example:
 ## Running the Program
 
 Open a google colab and run 
+Note : add a secret api key as HF_TOKEN in your google colab securities tab from hugging face 
 
 ```bash
 Assignment_1.pynb
